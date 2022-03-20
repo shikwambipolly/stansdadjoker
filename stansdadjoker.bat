@@ -1,0 +1,1 @@
+C:\Users\Windows 10\AppData\Local\Programs\Python\Python37-32 "C:\Users\Windows 10\Desktop\py\stansdadjoker.py"
